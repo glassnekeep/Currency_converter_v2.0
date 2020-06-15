@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Converter_currency</string>
+    <string-array name="currencyNames">
+        <item>Dollar</item>
+        <item>Ruble</item>
+        <item>Euro</item>
+        <item>Grivna</item>
+        <item>Pound</item>
+        <item>Yuan</item>
+    </string-array>
+</resources>
